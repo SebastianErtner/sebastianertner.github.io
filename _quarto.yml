@@ -15,10 +15,10 @@ website:
     search: false
   favicon: images/favicon.svg
     
-  page-footer:
-    background: secondary
-    left:
-      - "Copyright 2026, Sebastian Ertner"
+  #page-footer:
+    #background: secondary
+    #left:
+      #- "Copyright 2026, Sebastian Ertner"
 
 format:
   html:    
