@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Sebastian Ertner"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: files/CV.pdf
+        text: CV
+    search: false
+  favicon: images/favicon.svg
+    
+  page-footer:
+    background: secondary
+    left:
+      - "Copyright 2026, Sebastian Ertner"
+
+format:
+  html:    
+    theme:
+      - default #cosmo
+      #- brand
+    css: styles.css
+    toc: false
+    anchor-sections: false
+
+editor: visual
+

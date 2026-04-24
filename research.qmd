@@ -1,0 +1,12 @@
+---
+pagetitle: "Research"
+---
+
+## Working papers
+
+- <a href="files/Multiproduct-Firms-Refunds-and-Product-Returns.pdf" style="color: inherit;">Multiproduct Firms, Refunds and Product Returns</a> with <a href="https://maartenjanssen.at/" style="color: inherit;">Maarten Janssen</a>
+
+
+## Work in progress
+
+- Optimal Search with Costly Returns
