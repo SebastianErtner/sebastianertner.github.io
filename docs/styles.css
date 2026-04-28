@@ -1,1 +1,15 @@
 /* css styles */
+@media screen and (max-width: 768px) {
+    .quarto-about-trestles .about-entity {
+        margin-top: 1rem !important;
+        padding-right: 0rem !important;
+    }
+    
+    .quarto-about-trestles .about-image-container {
+        padding-top: 2rem !important;
+    }
+    
+    .quarto-about-trestles .about-image {
+        margin-top: 2rem !important;
+    }
+}

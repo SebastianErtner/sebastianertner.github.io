@@ -2,11 +2,16 @@
 pagetitle: "Research"
 ---
 
-## Working papers
+## Job Market Paper
 
-- <a href="files/Multiproduct-Firms-Refunds-and-Product-Returns.pdf" style="color: inherit;">Multiproduct Firms, Refunds and Product Returns</a> with <a href="https://maartenjanssen.at/" style="color: inherit;">Maarten Janssen</a>
+- Optimal Search with Costly Returns - <i>available on request</i>
 
 
-## Work in progress
+## Working Paper
 
-- Optimal Search with Costly Returns
+- <a href="files/Multiproduct-Firms-Refunds-and-Product-Returns.pdf" style="color: inherit;">Multiproduct Firms, Refunds and Product Returns</a> with <a href="https://maartenjanssen.at/" style="color: inherit;">Maarten Janssen</a> - <i>submitted</i>
+
+
+## Work in Progress
+
+- Peak Load Pricing with Consumer Externalities
