@@ -1,6 +1,20 @@
 ---
-#title: "website"
+image: images/portrait.jpg
+about:
+  template: trestles
+  image-shape: round
+  image-width: 280px
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:sebastian.ertner@univie.ac.at
+    - icon: file-text
+      text: CV
+      href: files/cv.pdf
 ---
+
+#
+
 I am a PhD student at the University of Vienna. My research field is microeconomic theory, in particular industrial organization and consumer search.
 
 My advisors are <a href="https://maartenjanssen.at/" style="color: inherit;">Maarten Janssen</a> and <a href="https://sites.google.com/site/dggonzal/" style="color: inherit;">Daniel Garcia</a>.
