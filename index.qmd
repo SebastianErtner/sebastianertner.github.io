@@ -10,7 +10,7 @@ about:
       href: mailto:sebastian.ertner@univie.ac.at
     - icon: file-text
       text: CV
-      href: files/cv.pdf
+      href: files/CV.pdf
 ---
 
 #
