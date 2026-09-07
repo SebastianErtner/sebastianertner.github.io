@@ -7,11 +7,11 @@ pagetitle: "Research"
 - <a href="files/Optimal-Search-with-Costly-Returns.pdf" style="color: inherit;">Optimal Search with Costly Returns</a>
 
 
-## Working paper
+## Working Paper
 
 - <a href="files/Multiproduct-Firms-Refunds-and-Product-Returns.pdf" style="color: inherit;">Multiproduct Firms, Refunds and Product Returns</a> with <a href="https://maartenjanssen.at/" style="color: inherit;">Maarten Janssen</a> <i>(submitted)</i>
 
 
-## Work in progress
+## Work in Progress
 
 - Peak Load Pricing with Consumer Externalities
